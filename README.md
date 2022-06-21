@@ -7,3 +7,7 @@ Human Connectome Project Radiomic Code by William Reynolds, University of Pittsb
 3. Clean Data and prep for modeling
 4. Build Models
 5. Visualize Results
+
+
+Reach out
+William.Reynolds[  at  ]pitt.edu
