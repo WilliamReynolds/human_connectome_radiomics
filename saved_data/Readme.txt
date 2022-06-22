@@ -1,0 +1,1 @@
+These are already run results used for analysis. You can use as ways to visualize results. Using notebook '6_View_and_visualize_results.iypnb.ipynb', add the path to both dictionaries and then load results, build objects and you can visiualization whatever results you'd like. 
